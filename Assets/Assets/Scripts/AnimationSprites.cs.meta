@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 294335c35f152144899f48c12eab5989
+timeCreated: 1490272465
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86294
+  packageName: 41 Animated Pixel Characters
+  packageVersion: 1.0
+  assetPath: Assets/Assets/Scripts/AnimationSprites.cs
+  uploadId: 169280
